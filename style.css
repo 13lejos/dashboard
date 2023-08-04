@@ -14,9 +14,16 @@ main{
 .header-top{
     display: flex;
 }
-.searchbar{
-    width: 40%;
-    max-height: 10px;
+.search-form{
+    width: 60%;
+}
+.search-bar{
+    width: 60%;
+    max-height: 2em;
+}
+.search-button{
+    width: auto;
+    max-height: 2em;
 }
 .page-container{
     display: flex;
