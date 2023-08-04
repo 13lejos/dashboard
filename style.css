@@ -1,0 +1,29 @@
+main{
+    display: flex;
+}
+
+.dashboard-container{
+    height: 100vh;
+    width: 20%;
+    outline: blue 1px solid;
+}
+
+
+.page-container{
+    display: flex;
+    flex-direction: column;
+    height:100vh;
+    width: 100%;
+    outline: blue 1px solid;
+}
+
+.header-container{
+    height:20%;
+    width: 100;
+    outline: blue 1px solid;
+}
+.content-container{
+    height: 80%;
+    width: 100%;
+    outline: blue 1px solid;
+}
